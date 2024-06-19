@@ -1,16 +1,30 @@
 pip install -r req.txt
-Датабейс в датагрипе до макемиграте
 --------------------------------
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 
-
 git add .
 git commit -m "."
 git push
 
-Обновить git pull
+git pull
 
-Не обновляеться git stash -> git pull
+git stash -> git pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+999cmp@mail.ru
+Elmancmp999
+999cmp
 
