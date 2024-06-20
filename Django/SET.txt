@@ -3,14 +3,15 @@ pip install -r req.txt
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
-
+--------------------------------
 git add .
 git commit -m "."
 git push
-
+--------------------------------
 git pull
-
+--------------------------------
 git stash -> git pull
+--------------------------------
 
 
 
@@ -22,9 +23,11 @@ git stash -> git pull
 
 
 
-
-
+--------------------------------
+999cmp
 999cmp@mail.ru
 Elmancmp999
-999cmp
-
+--------------------------------
+git clone https://github/HySuren/X.git
+git clone https://github/cmp999/X.git
+--------------------------------
