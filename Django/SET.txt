@@ -28,6 +28,6 @@ git stash -> git pull
 999cmp@mail.ru
 Elmancmp999
 --------------------------------
-git clone https://github/HySuren/X.git
-git clone https://github/cmp999/X.git
+git clone https://github.com/HySuren/X.git
+git clone https://github.com/cmp999/X.git
 --------------------------------
