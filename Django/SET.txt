@@ -29,5 +29,5 @@ git stash -> git pull
 Elmancmp999
 --------------------------------
 git clone https://github.com/HySuren/X.git
-git clone https://github.com/cmp999/X.git
+git clone https://github.com/999cmp/X.git
 --------------------------------
